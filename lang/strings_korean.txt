@@ -1,0 +1,6 @@
+<?php
+
+# Licensed under the MIT license
+
+$s_plugin_JquerySelect2_selectionOneOption = '선택해 주세요.';
+$s_plugin_JquerySelect2_noResults = '결과가 없습니다!';

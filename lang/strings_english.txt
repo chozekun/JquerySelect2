@@ -1,0 +1,6 @@
+<?php
+
+# Licensed under the MIT license
+
+$s_plugin_JquerySelect2_selectionOneOption = 'Selection one Option.';
+$s_plugin_JquerySelect2_noResults = 'No results here!';
