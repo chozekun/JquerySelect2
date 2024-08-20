@@ -34,6 +34,7 @@ jQuery(function ($) {
 
 		$(node).attr("data-placeholder", SELECTION_ONE_OPTION).select2({
 			width: element_width + 60,
+			templateResult: (item) => item.text || "\u200B",
 		});
 	};
 
